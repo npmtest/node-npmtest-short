@@ -1,4 +1,7 @@
-# test coverage for  [short (v2.6.0)](http://edwardhotchkiss.github.com/short)  [![npm package](https://img.shields.io/npm/v/npmtest-short.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-short) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-short.svg)](https://travis-ci.org/npmtest/node-npmtest-short)
+# npmtest-short
+
+#### basic test coverage for  [short (v2.6.0)](http://edwardhotchkiss.github.com/short)  [![npm package](https://img.shields.io/npm/v/npmtest-short.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-short) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-short.svg)](https://travis-ci.org/npmtest/node-npmtest-short)
+
 #### Node.js URL Shortener backed by Mongoose.js
 
 [![NPM](https://nodei.co/npm/short.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/short)
